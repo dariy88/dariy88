@@ -4,4 +4,4 @@ I'm a first-year Data Science student and NCAA soccer player at Illinois Institu
 What I've built
 - [TrendScope](https://dariy88.github.io/TrendScope/): An air-quality dashboard exploring NO₂ pollution using NASA satellite data and EPA measurements. Built for NASA Space Apps Challenge 2026.
 
-Portfolio: · [LinkedIn](www.linkedin.com/in/darii-kishchak-5b2709239) · dariykishack@gmail.com
+Portfolio: · [LinkedIn](https://www.linkedin.com/in/darii-kishchak-5b2709239/) · dariykishack@gmail.com
